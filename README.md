@@ -1,6 +1,7 @@
 # 使用搬瓦工搭建代理服务器
 
 [参考地址1](https://www.diycode.cc/topics/1247)
+
 [参考地址2](http://banwagong.cn/gonglue.html)
 
 ## 购买搬瓦工服务器
@@ -11,7 +12,7 @@
 
 ## 一键搭建SS
 
-打开网址[https://kiwivm.64clouds.com/main-exec.php?mode=extras_shadowsocks]，点击页面中的Install Shadowsocks Server安装即可(安装前提是服务器已打开已运行)。
+打开网址[https://kiwivm.64clouds.com/main-exec.php?mode=extras_shadowsocks] ，点击页面中的Install Shadowsocks Server安装即可(安装前提是服务器已打开已运行)。
 
 ## 安装客户端
 
