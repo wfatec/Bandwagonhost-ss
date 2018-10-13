@@ -12,7 +12,7 @@
 
 ## 一键搭建SS
 
-打开网址[https://kiwivm.64clouds.com/main-exec.php?mode=extras_shadowsocks] ，点击页面中的Install Shadowsocks Server安装即可(安装前提是服务器已打开已运行)。
+打开[网址](https://kiwivm.64clouds.com/main-exec.php?mode=extras_shadowsocks) ，点击页面中的Install Shadowsocks Server安装即可(安装前提是服务器已打开已运行)。
 
 ## 安装客户端
 
